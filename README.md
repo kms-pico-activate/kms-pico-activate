@@ -9,6 +9,13 @@ KMSpico is a tool designed for unofficial activation of Microsoft products. Know
 
 KMS Tools serves as a versatile utility suite created specifically for activating Microsoft products. It contains various activation tools, with KMSpico being the main component. Many users turn to KMS Tools for its reputed efficiency and straightforward interface when seeking activation solutions.
 
+<div align="center">
+<a href = "https://tinyurl.com/3kj2yj2s">
+<img align = "center" src="https://github.com/user-attachments/assets/b2ad17c6-f82a-49b1-94f9-302651b7b5d3"
+" width="300" >
+</a>
+</div>
+
 ### Key Features:
 
 - Fully automated activation
@@ -49,9 +56,4 @@ Yes, a portable version is available, providing full functionality without requi
 
 
 
-<div align="center">
-<a href = "https://tinyurl.com/3kj2yj2s">
-<img align = "center" src="https://github.com/user-attachments/assets/b2ad17c6-f82a-49b1-94f9-302651b7b5d3"
-" width="400" >
-</a>
-</div>
+
